@@ -54,7 +54,7 @@ integration framework and API.
 
 The Source Integration framework requires **[MantisBT](https://mantisbt.org/)
 version 2.26.4** or higher.
-Refer to the [changelog](https://github.com/mantisbt-plugins/source-integration/releases))
+Refer to the [changelog](https://github.com/mantisbt-plugins/source-integration/releases)
 for information about support for earlier releases.
 
 ### VCS plugins
